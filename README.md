@@ -1,4 +1,8 @@
 # Correlation and regression for data analysis
+
+## NAME: JOANN ELIZABETH SAMUEL 
+## REG NO : 212224040139
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
